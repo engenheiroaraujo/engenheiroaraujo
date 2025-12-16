@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel.
+# Olá, eu sou o Gabriel!
 
 Titular como Engenheiro da Computação e Engenheiro de Dados registrado nos órgãos CONFEA/CREA.
 
