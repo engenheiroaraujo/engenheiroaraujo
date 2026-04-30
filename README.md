@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel!
 
-Titular como Engenheiro da Computação e Engenheiro de Dados registrado nos órgãos CONFEA/CREA.
+Titular como Engenheiro da Computação registrado nos órgãos CONFEA/CREA.
 
 ## Quem Sou Eu?
 Profissional orientado à excelência, movido por desafios e apaixonado por tecnologia, com forte capacidade analítica e visão estratégica voltada para soluções inteligentes e sustentáveis. Possuo um perfil comprometido com a inovação, performance, qualidade e aprimoramento contínuo, sempre buscando novas abordagens para agregar valor aos processos e resultados.
