@@ -36,3 +36,6 @@ Proficiência em linguagens como Golang e Delphi, atuando desde o levantamento d
 
 ### Computação em Nuvem
 Aprofundamento em Cloud Computing e virtualização, envolvendo o uso de tecnologias emergentes e consolidadas, domínio das principais ferramentas de nuvem, segurança de dados e informações, aplicação da virtualização em diferentes segmentos, utilização de soluções de armazenamento, além do planejamento, implementação e resolução de problemas tecnológicos de forma estratégica em diversos contextos de negócios.
+
+### Portfólio
+Conheça mais sobre minha trajetória e projetos em: [engenheiroaraujo.com](https://engenheiroaraujo.com/)
