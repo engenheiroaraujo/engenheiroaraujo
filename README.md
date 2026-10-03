@@ -1,11 +1,11 @@
-# Olá, eu sou o Gabriel Araujo 👋
+# Olá, eu sou o Gabriel Alves de Araujo
 
 **Engenheiro da Computação | Engenharia de Software e Engenharia de Dados**
 Registro profissional no sistema **CONFEA/CREA** (Brasil) · Cuiabá, MT · Aberto a oportunidades internacionais
 
 Sou Engenheiro da Computação com especialização em engenharia de software e engenharia de dados, com foco em desenvolvimento de aplicações, bancos de dados relacionais e performance.
 
-🌐 **Portfólio:** [engenheiroaraujo.com](https://engenheiroaraujo.com/pt/) · 💼 [LinkedIn](https://br.linkedin.com/in/gabrielaraujoe/) · ✉️ [engenheiroaraujo@outlook.com.br](mailto:engenheiroaraujo@outlook.com.br)
+**Portfólio:** [engenheiroaraujo.com](https://engenheiroaraujo.com/pt/) · [LinkedIn](https://br.linkedin.com/in/gabrielaraujoe/) · [engenheiroaraujo@outlook.com.br](mailto:engenheiroaraujo@outlook.com.br)
 
 ---
 
