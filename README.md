@@ -1,7 +1,7 @@
 # Olá, eu sou o Gabriel Alves de Araujo
 
 **Engenheiro da Computação | Engenharia de Software e Engenharia de Dados**
-Registro profissional no sistema **CONFEA/CREA** (Brasil) · Cuiabá, MT · Aberto a oportunidades internacionais
+Registro profissional no sistema **CONFEA/CREA** (Brasil) · Cuiabá, MT
 
 Sou Engenheiro da Computação com especialização em engenharia de software e engenharia de dados, com foco em desenvolvimento de aplicações, bancos de dados relacionais e performance.
 
