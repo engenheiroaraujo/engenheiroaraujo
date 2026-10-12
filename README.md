@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel Alves de Araujo
+# Olá, eu sou o Gabriel
 
 **Engenheiro da Computação | Engenharia de Software e Engenharia de Dados**
 Registro profissional no sistema **CONFEA/CREA** (Brasil) · Cuiabá, MT
