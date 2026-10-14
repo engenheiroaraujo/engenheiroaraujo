@@ -26,7 +26,6 @@ Antes, entre novembro de 2021 e agosto de 2025, atuei como **Analista de Desenvo
 |---|---|---|
 | [**bridopen**](https://github.com/engenheiroaraujo/bridopen) | Aplicação web auto-hospedada de notas (etiquetas, anexos, 2FA TOTP, sessões revogáveis). Código aberto (MIT), autor único: arquitetura, backend, templates, migrations e testes. [Estudo de caso](https://engenheiroaraujo.com/pt/projeto-bridopen.html) | Go, PostgreSQL, html/template, Docker |
 | [**wintaskbar**](https://github.com/engenheiroaraujo/wintaskbar) | Personalizador da barra de tarefas do Windows 11: Dock flutuante e Tray em vidro com blur, tema editável em YAML e layout adaptativo para telas estreitas. Agent leve em Go (cerca de 19 MB em repouso) e um componente C++/WinRT carregado no Explorer. Código aberto (MIT), autor único, versão v0.1.0. | Go, C++/WinRT, Windows API, PowerShell |
-| **Sistema de Gestão de Demandas** | Plataforma que centraliza pedidos de desenvolvimento com responsável, prioridade, Kanban, lotes e relatórios. Autor da API REST, do modelo relacional e da interface web. Código privado. [Estudo de caso](https://engenheiroaraujo.com/pt/projeto-gestao-demandas.html) | Python, FastAPI, PostgreSQL, TypeScript |
 
 ## Competências técnicas
 
