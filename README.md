@@ -26,6 +26,7 @@ Antes, entre novembro de 2021 e agosto de 2025, atuei como **Analista de Desenvo
 |---|---|---|
 | [**bridopen**](https://github.com/engenheiroaraujo/bridopen) | Aplicação web auto-hospedada de notas (etiquetas, anexos, 2FA TOTP, sessões revogáveis). Código aberto (MIT), autor único: arquitetura, backend, templates, migrations e testes. [Estudo de caso](https://engenheiroaraujo.com/pt/projeto-bridopen.html) | Go, PostgreSQL, html/template, Docker |
 | [**wintaskbar**](https://github.com/engenheiroaraujo/wintaskbar) | Personalizador da barra de tarefas do Windows 11: Dock flutuante e Tray em vidro com blur, tema editável em YAML e layout adaptativo para telas estreitas. Agent leve em Go (cerca de 19 MB em repouso) e um componente C++/WinRT carregado no Explorer. Código aberto (MIT), autor único, versão v0.1.0. | Go, C++/WinRT, Windows API, PowerShell |
+| [**parallelepiped**](https://github.com/engenheiroaraujo/parallelepiped) | Editor de notas em Markdown para desktop com links entre notas, backlinks, busca de texto completo e um grafo 3D navegável. O cofre é uma pasta comum de arquivos `.md`, legíveis por qualquer editor. Monolito modular em camadas. Código aberto (MIT), autor único. | Go, Wails, TypeScript, CodeMirror, Three.js, SQLite (FTS) |
 
 ## Competências técnicas
 
